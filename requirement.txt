@@ -1,2 +1,6 @@
 python 
 tensorflow
+sklearn
+pandas 
+numpy 
+seaborn
